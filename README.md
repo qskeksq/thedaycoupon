@@ -14,6 +14,7 @@
 - 선행 사항
 - 테일블 관계
 - 테이블 설계
+
 ### 2. DB 구현(테이블, 칼럼 작성)
 - code 테이블
 - 버전 테이블
@@ -23,8 +24,16 @@
 - 즐겨찾기 테이블
 - 쿠폰 요청 테이블
 - 잘못된 정보 테이블
+
 ### 3. 데이터 크롤링
-### 4. SQL문 쿼리
+
+### 4. SQL 쿼리
+
+### 5. 원격 서버
+- 호스팅
+- CLI 사용자 생성
+- CLI 권한 설정
+- GUI 워크벤치 연결
 
 ## [__#서버(Nodejs)__](https://github.com/qskeksq/thedaycoupon_Server) :open_file_folder:
 
@@ -56,6 +65,12 @@
 - 구현 단위
 
 ### 3. 구현 
+
+### 관리모듈
+- 코드관리모듈
+- 로그 & Exception
+- 자동실행
+
 ### (1) server.js / app.js
 - 데이터베이스 연결
 - 서버 생성 & 연결
@@ -94,6 +109,10 @@
     - host
     - port
 - public
+
+### 4. 원격서버
+- ssh 서버 접속
+- 노드 관리 NVM
 
 ## [__#클라이언트(Android)__](https://github.com/qskeksq/thedaycoupon_Android) :open_file_folder:
 
@@ -232,11 +251,5 @@
 - SignInUtil
 - StringUtil
 
-## [__Database Hosting__]()
-
-## [__Server Hosting__]()
-
-## [__Application 등록__]()
-
-
+### Application 등록
 
